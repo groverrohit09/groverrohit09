@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Grover</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">Data Quality Engineer</h3>
 
 - 💬 Ask me about **Machine Learning, React, NodeJS**
 
